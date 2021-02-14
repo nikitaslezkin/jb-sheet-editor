@@ -1,0 +1,3 @@
+This project presents implementation of a table editor alike to MS Excel. The main function of the project is creation of tables with cells containing text, numerical information or formulas.
+
+Formulas may contain main arithmetic (addition, subtraction, multilpication, division, exponentiation), trigonometric (sine, cosine, tangent) and other (logarithm, square root) operations. Formulas in different cells can depend on each other and use previously calculated results.
